@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16244" started-at="2017-07-25T07:58:50Z" finished-at="2017-07-25T07:59:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6104" started-at="2017-07-25T07:58:50Z" finished-at="2017-07-25T07:58:56Z">
+      <class name="SampleTestcases.TestCase1">
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:SampleTestcases.TestCase1@5ae63ade]" name="test1" duration-ms="6077" started-at="2017-07-25T13:28:50Z" finished-at="2017-07-25T13:28:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- SampleTestcases.TestCase1 -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="10096" started-at="2017-07-25T07:58:57Z" finished-at="2017-07-25T07:59:07Z">
+      <class name="SampleTestcases.TestCase1">
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:SampleTestcases.TestCase1@7494e528]" name="test1" duration-ms="10094" started-at="2017-07-25T13:28:57Z" finished-at="2017-07-25T13:29:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- SampleTestcases.TestCase1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
