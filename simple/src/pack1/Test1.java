@@ -18,7 +18,7 @@ public class Test1 {
 		
 		
 		driver.get("https://sbtstravels.com/");
-		
+		System.out.println("hi");
 		
 	}
 
